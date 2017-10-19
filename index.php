@@ -40,4 +40,6 @@ function logData()
 
 logData(); 
 
+echo "hello world";
+
 ?>
